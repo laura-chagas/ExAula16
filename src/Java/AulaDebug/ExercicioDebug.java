@@ -63,7 +63,7 @@ public class ExercicioDebug {
 /*
    public static void calcularAreaRetangulo(double base, double altura) {
         double areaRetangulo = base * altura;
-       System.out.println("O valor da área do retangulo é $areaRetangulo");
+       System.out.println("O valor da área do retangulo é " + areaRetangulo);
    }
 */
 
