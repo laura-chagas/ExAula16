@@ -75,9 +75,9 @@ public class ExercicioDebug {
     public static List<Integer> retornarListaNumeros() {
         Scanner scanner = new Scanner(System.in);
         List<Integer> listaNumero = new ArrayList<>();
-        int tamnhoLista = 3;
+        int tamanholista = 3;
 
-        for (int i = 0; i < tamnhoLista; i++) {
+        for (int i = 0; i < tamanholista; i++) {
             System.out.println("Informe um número: ");
             listaNumero.add(scanner.nextInt());
         }
